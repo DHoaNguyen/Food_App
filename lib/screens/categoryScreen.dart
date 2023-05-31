@@ -168,7 +168,7 @@ class MostPopularCard extends StatelessWidget {
             borderRadius: BorderRadius.circular(20),
             child: Container(
               width: 200,
-              height: 100,
+              height: 90,
               child: _image,
             ),
           ),

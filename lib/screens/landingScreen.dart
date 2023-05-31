@@ -59,7 +59,7 @@ class LandingScreen extends StatelessWidget {
                 children: [
                   Flexible(
                     child: Text(
-                      "XÂY dựng Food App sử dụng Framework Flutter",
+                      "Xây dựng Food App sử dụng Flutter",
                       textAlign: TextAlign.center,
                     ),
                   ),
